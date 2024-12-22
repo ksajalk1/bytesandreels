@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'Bytes and Reels',
+    // subtitle: 'Minimal Astro.js theme',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -50,10 +50,10 @@ const siteConfig: SiteConfig = {
             text: 'Home',
             href: '/'
         },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
+        // {
+        //     text: 'Projects',
+        //     href: '/projects'
+        // },
         {
             text: 'Blog',
             href: '/blog'
@@ -64,36 +64,36 @@ const siteConfig: SiteConfig = {
         }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
+        // {
+        //     text: 'About',
+        //     href: '/about'
+        // },
         {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+        // {
+        //     text: 'Terms',
+        //     href: '/terms'
+        // },
+        // {
+        //     text: 'Download theme',
+        //     href: 'https://github.com/JustGoodUI/dante-astro-theme'
+        // }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        // {
+        //     text: 'Dribbble',
+        //     href: 'https://dribbble.com/'
+        // },
+        // {
+        //     text: 'Instagram',
+        //     href: 'https://instagram.com/'
+        // },
+        // {
+        //     text: 'X/Twitter',
+        //     href: 'https://twitter.com/'
+        // }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
