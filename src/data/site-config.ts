@@ -48,7 +48,7 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: '/'
+            href: '/bytesandreels'
         },
         // {
         //     text: 'Projects',
@@ -56,11 +56,11 @@ const siteConfig: SiteConfig = {
         // },
         {
             text: 'Blog',
-            href: '/blog'
+            href: '/bytesandreels/blog'
         },
         {
             text: 'Tags',
-            href: '/tags'
+            href: '/bytesandreels/tags'
         }
     ],
     footerNavLinks: [
@@ -70,7 +70,7 @@ const siteConfig: SiteConfig = {
         // },
         {
             text: 'Contact',
-            href: '/contact'
+            href: '/bytesandreels/contact'
         },
         // {
         //     text: 'Terms',
@@ -105,7 +105,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: '/bytesandreels/contact'
             }
         ]
     },
